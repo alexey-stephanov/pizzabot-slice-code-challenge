@@ -7,28 +7,28 @@ Console app that сalculates the route for the delivery bot. Written in Kotlin D
 There are several ways to use pizzabot
 
 * In IntelliJ IDEA
-1. Open the project in IntelliJ IDEA, open file Main.kt and run the main function
+1. Open the project in IntelliJ IDEA, open file Main.kt and run the main function. After that, write your input without quotes.
 
 * In terminal
 Go to the project root folder
 
-1. Write ./pizzabot and your input in quotes
+1. Write ./pizzabot.sh and your input in quotes
 ```
-./pizzabot "(your_input)"
+./pizzabot.sh "(your_input)"
 ```
 Example:
 ```
-./pizzabot "5x5 (1, 2) (2, 3)"
+./pizzabot.sh "5x5 (1, 2) (2, 3)"
 ```
 
-2. Write ./pizzabot and run the program. After that, write your input without quotes
+2. Write ./pizzabot.sh and run the program. After that, write your input without quotes
 ```
-./pizzabot
+./pizzabot.sh
 (your_input)
 ```
 Example:
 ```
-./pizzabot
+./pizzabot.sh
 5x5 (1, 2) (2, 3)
 ```
 
