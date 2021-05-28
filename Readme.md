@@ -1,6 +1,6 @@
 # Pizzabot
 
-Console app that сalculates the route for the delivery bot. Written in Kotlin DSL.
+Console app that сalculates the route for the delivery bot.
 
 ## Usage
 
